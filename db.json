@@ -1,0 +1,25 @@
+{
+    "ales": [
+        {
+            "id": 1,
+            "title": "Smoked Porter",
+            "brewery": "Theakstons",
+            "description": "Lorem ipsum",
+            "rating": 8
+        },
+        {
+            "id": 2,
+            "title": "New England IPA",
+            "brewery": "Theakstons",
+            "description": "Lorem ipsum",
+            "rating": 7
+        }
+        {
+            "id": 3,
+            "title": "Session Pale",
+            "brewery": "Northern Monk",
+            "description": "Lorem ipsum",
+            "rating": 9
+        }
+    ]
+}
